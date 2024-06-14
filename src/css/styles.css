@@ -2,10 +2,9 @@
 
 .caixa-maior {
     background-color: #880ce1;
-    width: 95%; 
-    max-width: 500px; 
+    width: 420px; 
+     margin-left: 10px;
     opacity: 0.9;
-    
     border-radius: 1px;
 }
 

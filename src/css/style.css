@@ -25,13 +25,13 @@ body{
 }
 .tituloD{
     margin-top: 40px;
-    width: 500px;
+    width: 430px;
     height:40px ;
     border-radius: 5px;
     
     background-color: rgb(125, 14, 243);
     text-align:center;
-    margin-left: 750px;
+    margin-left: 560px;
    
     color: white;
  
@@ -47,6 +47,7 @@ body{
     display: flex;
     text-align: center;
    justify-content: center;
+   
    
     
     
