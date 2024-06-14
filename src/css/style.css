@@ -1,0 +1,70 @@
+
+
+body{
+    background-image: url("../img/vibe2.jpg");
+    height: 100vh;
+    background-size:cover;
+    background-position: 60%;
+    background-repeat: no-repeat;
+    max-width: 100%;
+
+    opacity: 80%;
+   
+}
+
+
+
+.relogio{
+   
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: row;
+    margin: auto;
+  
+}
+.tituloD{
+    margin-top: 40px;
+    width: 500px;
+    height:40px ;
+    border-radius: 5px;
+    
+    background-color: rgb(125, 14, 243);
+    text-align:center;
+    margin-left: 750px;
+   
+    color: white;
+ 
+    
+}
+
+
+
+
+
+
+.temperatura{
+    display: flex;
+    text-align: center;
+   justify-content: center;
+   
+    
+    
+}
+
+.rodape{
+   
+    text-align: center;
+    margin-top: 20px;
+    color:rgb(255, 255, 255);
+    height: 50px;
+    font-size:15px;
+  
+  
+}
+
+
+    
+    
+
+

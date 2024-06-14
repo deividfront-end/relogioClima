@@ -1,0 +1,67 @@
+
+
+.caixa-maior {
+    background-color: #880ce1;
+    width: 95%; 
+    max-width: 500px; 
+    opacity: 0.9;
+    
+    border-radius: 1px;
+}
+
+input {
+    border: none;/* borda do elemento */
+    outline: none;/* borda quando seleciona o elemento */
+    padding: 10px;/* espaçamento interno */
+    border-radius: 24px;/* arredonda as bordas */
+    font-size: 20px;
+    background-color: #ffffff2b;
+    color: #ffffff;
+    width: calc( 100% - 100px);
+    border-color: #000000;
+   
+}
+
+button {
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 50px;
+    background-color: #fafafa2b;
+    float: right;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0000006b;
+}
+
+.caixa-media {
+    margin-top: 30px;
+}
+
+
+
+
+.lupa {
+    height: 20px;
+    
+}
+
+h2 {
+    color: white;
+    font-size: 28px; /* tamanho do texto */
+}
+
+.temp {
+    color: #ffffff;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.descricao {
+    color: #ffffff;
+    margin-left: 20px;
+    text-transform: capitalize; /* Deixa a primeira letra maiuscula*/
+}
+
