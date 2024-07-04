@@ -6,7 +6,7 @@ function colocarNaTela(dados){
     document.querySelector(".cidade").innerHTML = "Tempo em " + dados.name
     document.querySelector(".temp").innerHTML =  Math.floor(dados.main.temp) + "°C"
     document.querySelector(".descricao").innerHTML = dados.weather[0].description
-    document.querySelector(".icone").src = "https://openweathermap.org/img/wn/" + dados.weather[0].icon + ".png"
+    document.querySelector(".icone").src = "https://weather.com/weather/today/l/-29.68,-51.46?par=google" + dados.weather[0].icon + ".png"
 }
 
 async function buscarCidade(cidade){
